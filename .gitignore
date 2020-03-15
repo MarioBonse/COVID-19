@@ -18,3 +18,8 @@ Thumbs.db
 
 # Changelog test
 changelog.txt
+
+venv
+.venv
+.vscode 
+.ipynb_checkpoints
