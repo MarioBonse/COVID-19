@@ -1,0 +1,7 @@
+numpy 
+pandas 
+jupyter
+matplotlib
+geopandas
+imageio
+descartes
